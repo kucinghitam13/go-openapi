@@ -9,7 +9,7 @@ import (
 
 	"github.com/julienschmidt/httprouter"
 
-	"github.com/kucinghitam13/go-openapi/model"
+	"github.com/kucinghitam13/go-openapi/app/model"
 )
 
 var (
